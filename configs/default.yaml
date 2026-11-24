@@ -1,0 +1,43 @@
+# Single source of truth for the benchmark. Paths are relative to the project root unless absolute.
+raw_dirs:
+  knee: ../MRI-Work1/downloads/knee_multicoil_train
+  brain: ../MRI-Work1/downloads/brain_multicoil_train
+test_raw_dirs:            # external test volumes from the fastMRI VALIDATION sets (bench.fetch_subset); when
+  knee: ../datasets/fastmri/knee_multicoil_val_subset   # present, all train-batch volumes go to train/val and
+  brain: ../datasets/fastmri/brain_multicoil_val_subset # these become the test set
+data_dir: data           # preprocessed volumes, sensitivity maps, splits
+runs_dir: runs            # checkpoints and training logs
+results_dir: results      # per-slice metrics, reconstructions, tables, figures
+
+preprocess:
+  crop:                   # image-domain centre crop / zero-pad (fastMRI reference FOV; brain 384 keeps the scalp)
+    knee: [320, 320]
+    brain: [384, 384]
+  virtual_coils: 8        # SVD coil compression (Huang et al. 2008); volumes with fewer coils are kept as is
+  scale_lines: 9          # per-volume intensity scale from the central 9 PE lines (acquired at every R, incl. 12)
+
+split:                    # volume-level split, stratified by acquisition / contrast
+  seed: 0
+  train: 30               # used only without an external test set
+  val: 5
+  test: 15
+  val_with_external_test: 8   # with an external test set: 42 train / 8 val from the train batch
+
+masks:                    # fastMRI random Cartesian masks (Zbontar et al. 2018)
+  type: random
+  center_fractions: {4: 0.08, 8: 0.04, 12: 0.03}
+  accelerations: [4, 8]   # 12 is used only in the out-of-distribution acceleration test
+
+espirit:
+  calib_readout: 64       # readout extent of the rectangular ACS calibration block
+  kernel: 6
+  thresh: 0.02
+  crop: 0.0               # no eigenvalue crop: a cropped map zeroes the background and, against the RSS
+                          # reference, caps even a fully sampled SENSE image at SSIM ~0.60
+
+metrics:
+  hfen_sigma: 1.5
+  lpips_net: alex
+  foreground_threshold: 0.1   # primary metrics inside the anatomy: smoothed reference > 0.1 x volume max
+                              # (fully sampled SENSE vs RSS then reaches SSIM >= 0.988); whole-image metrics
+                              # (fastMRI convention) are reported as well, with the suffix _whole

@@ -1,0 +1,21 @@
+{
+ "model": "modl",
+ "model_args": {},
+ "train": {
+  "optimizer": "adam",
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "epochs": 50,
+  "lr_step": 40,
+  "lr_gamma": 0.1
+ },
+ "init_from": "runs\\knee\\modl_k1",
+ "params": 113671,
+ "anatomy": "knee",
+ "seed": 0,
+ "accelerations": [
+  4,
+  8
+ ],
+ "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

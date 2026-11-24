@@ -1,0 +1,19 @@
+{
+ "model": "scoremri",
+ "model_args": {
+  "nf": 64,
+  "image_size": 320
+ },
+ "train": {
+  "optimizer": "adam",
+  "lr": 0.0002,
+  "warmup": 5000,
+  "grad_clip": 1.0,
+  "steps": 100000,
+  "ema_rate": 0.999,
+  "batch_size": 1
+ },
+ "params": 15381377,
+ "anatomy": "knee",
+ "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

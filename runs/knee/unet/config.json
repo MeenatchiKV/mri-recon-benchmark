@@ -1,0 +1,20 @@
+{
+ "model": "unet",
+ "model_args": {},
+ "train": {
+  "optimizer": "rmsprop",
+  "lr": 0.001,
+  "weight_decay": 0.0,
+  "epochs": 50,
+  "lr_step": 40,
+  "lr_gamma": 0.1
+ },
+ "params": 7756097,
+ "anatomy": "knee",
+ "seed": 0,
+ "accelerations": [
+  4,
+  8
+ ],
+ "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

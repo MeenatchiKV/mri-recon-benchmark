@@ -1,0 +1,21 @@
+{
+ "model": "swinmr",
+ "model_args": {},
+ "train": {
+  "optimizer": "adam",
+  "lr": 0.0002,
+  "weight_decay": 0.0,
+  "epochs": 50,
+  "lr_step": 40,
+  "lr_gamma": 0.5
+ },
+ "init_from": null,
+ "params": 2244433,
+ "anatomy": "knee",
+ "seed": 0,
+ "accelerations": [
+  4,
+  8
+ ],
+ "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

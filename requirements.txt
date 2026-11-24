@@ -1,0 +1,17 @@
+# Versions used for the paper (Python 3.11, CUDA 11.8). Install the torch build for your CUDA version from pytorch.org.
+torch==2.7.1
+numpy==2.3.5
+scipy==1.17.1
+h5py==3.14.0
+pandas==2.3.3
+PyYAML==6.0.3
+tqdm==4.67.3
+sigpy==0.1.27
+pygrappa==0.26.3
+fastmri==0.3.0
+lpips==0.1.4
+scikit-image==0.26.0
+statsmodels==0.14.6
+matplotlib==3.10.8
+einops==0.8.2
+ninja==1.13.0

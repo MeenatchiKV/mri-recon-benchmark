@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+
+# fastMRI data cannot be redistributed: only the volume list and split are tracked
+data/*
+!data/knee/
+data/knee/*
+!data/knee/split.json
+!data/knee/volumes.json
+
+# checkpoints are published as GitHub release assets
+*.pt
+runs/_superseded/
+runs/brain/
+
+# reconstructed images (derived from fastMRI images) and caches
+results/*/recon/
+results/*/recon_cache/
+results/*/recon_perturb/
+results/brain/
+
+# local logs
+logs/
+
+# manuscript: added after the review process
+paper/
+paper_elsevier/
+paper_elsevier.zip
+scripts/build_elsevier.py
+scripts/check_paper.py

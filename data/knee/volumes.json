@@ -1,0 +1,452 @@
+[
+ {
+  "name": "file1000059",
+  "slices": 38,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "1b6c0b0238b40603a6d0d0fd0d27c2d9e2a3dc89dd0de99f47b9b1ea1c537af6",
+  "coil_energy_kept": 0.9090272784233093
+ },
+ {
+  "name": "file1000089",
+  "slices": 39,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "18b49f3b5fe61d3fd7f519ff749854134f53e1ca42fe2723e1577eced0133a01",
+  "coil_energy_kept": 0.9452741742134094
+ },
+ {
+  "name": "file1000109",
+  "slices": 33,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "90f9bca53a5edb24e08a6ba1b77fcf3fcb7c10f6ad9359df109f51565c1e57ce",
+  "coil_energy_kept": 0.9346752762794495
+ },
+ {
+  "name": "file1000117",
+  "slices": 35,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "79b70b19546e34ed914d769b1356e01796d45bd0e6de2f5249cb8b0aa91d25a8",
+  "coil_energy_kept": 0.9127349853515625
+ },
+ {
+  "name": "file1000154",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "4c7c7f104e9665c16865847249e4ddf148b5175857e2787ccd11300c6d9c3deb",
+  "coil_energy_kept": 0.8101831078529358
+ },
+ {
+  "name": "file1000300",
+  "slices": 30,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "1522ff3dc4290010d6cf88d7b555960ac0b677fccb138e7d7aff849f8a06357a",
+  "coil_energy_kept": 0.9396286606788635
+ },
+ {
+  "name": "file1000340",
+  "slices": 37,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "9516154aae92c260f0f518d9c88dc154838b3b9c8a007bd18036f2e0baf708fa",
+  "coil_energy_kept": 0.8675416707992554
+ },
+ {
+  "name": "file1000383",
+  "slices": 39,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "72419ca8bbf71f4abf689ec1eb027ae1bb1a310225b58a48cacebd866d668edd",
+  "coil_energy_kept": 0.9274595379829407
+ },
+ {
+  "name": "file1000408",
+  "slices": 35,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "1786a35987e1b77051eef95e727f0d9d6470ec48de24a937b38f78035d0df62d",
+  "coil_energy_kept": 0.8943035006523132
+ },
+ {
+  "name": "file1000495",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "fdd38a459cb4bf8181bdf25d8c7497e5715970f41975b32c03277cbaa167541e",
+  "coil_energy_kept": 0.925946056842804
+ },
+ {
+  "name": "file1000501",
+  "slices": 35,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "6297e7f33473bc97496c45ee8ee7fd7152d18d7f85d17fe09443ce1d19a9e945",
+  "coil_energy_kept": 0.8272448778152466
+ },
+ {
+  "name": "file1000535",
+  "slices": 36,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "1b9c0474e6f4e55e218fe9a1b43f7e576565d2c9669afc950fc20859c40c5ec7",
+  "coil_energy_kept": 0.9344689846038818
+ },
+ {
+  "name": "file1000566",
+  "slices": 30,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "a6969d5e0bdec15a9749cf31c377eb0b08f38da372092e7391978c69446c8dc0",
+  "coil_energy_kept": 0.8266018629074097
+ },
+ {
+  "name": "file1000584",
+  "slices": 38,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "9d66e549bb45dacfdc13c556bee579ba5985ca92c8b83ebedb94802902944828",
+  "coil_energy_kept": 0.9605990052223206
+ },
+ {
+  "name": "file1000658",
+  "slices": 30,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "7eb70d4a7c626850494abb3e3bb34c5b267e660bde0e9f97ab773582f5ac09dd",
+  "coil_energy_kept": 0.8201719522476196
+ },
+ {
+  "name": "file1000682",
+  "slices": 40,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "dd5dedda481be6f0a56d2b2e6eb3cba0fe3ebe67754c2d166c4b317ffb695669",
+  "coil_energy_kept": 0.9264514446258545
+ },
+ {
+  "name": "file1000685",
+  "slices": 29,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "f0935fd9878b43c04896679f137d01f6f0b2a3bc14f3875e9384b1cc1715b706",
+  "coil_energy_kept": 0.9371956586837769
+ },
+ {
+  "name": "file1000716",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "1e8c9978086d58437d66bf962ea8ffd8516022cb5d948d61f9137d684459efb9",
+  "coil_energy_kept": 0.9652787446975708
+ },
+ {
+  "name": "file1000755",
+  "slices": 32,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "8bb1c24efb50b468539e144d82350076d547df2c29845b8376d78e99edd053bf",
+  "coil_energy_kept": 0.929094672203064
+ },
+ {
+  "name": "file1000801",
+  "slices": 36,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "0e24e5a3c71e6272b69cde5d55dda24bfd687d1fc4f6f1cf50b15d181f6a2653",
+  "coil_energy_kept": 0.9555755257606506
+ },
+ {
+  "name": "file1000806",
+  "slices": 39,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "2a92e5fcb2a82761d495767c4f37e35f0805d5c79c590298903a105595ef2826",
+  "coil_energy_kept": 0.9325143694877625
+ },
+ {
+  "name": "file1000875",
+  "slices": 33,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "b9b141d47a9887f1298174fd050b3e90175d746ecbe2ea2a8e1a592814acfe4a",
+  "coil_energy_kept": 0.9486384391784668
+ },
+ {
+  "name": "file1000896",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "01baeadd109d08e8f465b650c365a974ef2bcf7ef49a150af0a87073819a7a7e",
+  "coil_energy_kept": 0.9176178574562073
+ },
+ {
+  "name": "file1000963",
+  "slices": 32,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "d6f7fabdfbb2d854fae8276853c510731c26ec11b07786195d07130df8aeb20c",
+  "coil_energy_kept": 0.8251386880874634
+ },
+ {
+  "name": "file1001003",
+  "slices": 36,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "c8e93bdb2407450e65b5fe159ff4bffdd0e4ae95743c2b4a8d6e792acfc5fe9c",
+  "coil_energy_kept": 0.8127375841140747
+ },
+ {
+  "name": "file1001051",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "ae93eba7e4475fa4cc6582a716401a4a8aace435075a6e00465196465d0d2e36",
+  "coil_energy_kept": 0.8408928513526917
+ },
+ {
+  "name": "file1001200",
+  "slices": 38,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "8b6db7048c72545f453301268325116e9424b40e88a2847584de6fc992574d0b",
+  "coil_energy_kept": 0.9354200959205627
+ },
+ {
+  "name": "file1001205",
+  "slices": 44,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "d0ee473eeaa34232ec2cbe2acfda1366c7d3a56fd5aa4515e5535d79c8550c80",
+  "coil_energy_kept": 0.9348559379577637
+ },
+ {
+  "name": "file1001266",
+  "slices": 37,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "847a9cee6b8ce2c232fcedca0181db09de172d114506086add0fddf572eb8a63",
+  "coil_energy_kept": 0.9506468772888184
+ },
+ {
+  "name": "file1001340",
+  "slices": 33,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "0e68016d10ef82478f71e62f41788a193067553f63a1f7d7874d854737d01862",
+  "coil_energy_kept": 0.841203510761261
+ },
+ {
+  "name": "file1001426",
+  "slices": 35,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "e7156800594ad4a776f73f719c320a9f1fe8bf8c8f713b6e4c7e41e878b14e96",
+  "coil_energy_kept": 0.9586012363433838
+ },
+ {
+  "name": "file1001491",
+  "slices": 42,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "2ff418f2bf7427655282d82a9cede55d9550a1f9994d108342409c81e5c2bb2f",
+  "coil_energy_kept": 0.9051691889762878
+ },
+ {
+  "name": "file1001520",
+  "slices": 35,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "8687fc3222901182231528d366509c7ad78997319d3fdf9686b0073672235da1",
+  "coil_energy_kept": 0.9560948014259338
+ },
+ {
+  "name": "file1001654",
+  "slices": 33,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "a4c2c317406db20e3bb7045bc4fc05d28c7e47b42ee4d31e857674378330e1c6",
+  "coil_energy_kept": 0.9171773195266724
+ },
+ {
+  "name": "file1001741",
+  "slices": 38,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "bc47fec42556fbc42fb7913949261bdfa034eea44ce1a7d9d18981fdf44103a5",
+  "coil_energy_kept": 0.8234882950782776
+ },
+ {
+  "name": "file1001866",
+  "slices": 36,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "bb04e3b15e94daa7da8c3fc398551f0dad4ecebeaed9099ec9288dc1d86b4f01",
+  "coil_energy_kept": 0.8045781850814819
+ },
+ {
+  "name": "file1001948",
+  "slices": 32,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "242495ba9a0e0017a0a4678082aaad706a3997d64ef97199ee292610c554ce17",
+  "coil_energy_kept": 0.852628231048584
+ },
+ {
+  "name": "file1001982",
+  "slices": 33,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "f56bdbe25573ebd674eb095258d63e029cf997195fd92c8803ed2be1c77eb879",
+  "coil_energy_kept": 0.9052974581718445
+ },
+ {
+  "name": "file1002098",
+  "slices": 40,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "a2bc8df413b58baed4167de1c546e6afcbf54415b07518bcb8e1abdba77d7b3d",
+  "coil_energy_kept": 0.9051451683044434
+ },
+ {
+  "name": "file1002107",
+  "slices": 32,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "a1155f2afc6642431f35aa50d33b0caf666ed7db6528d725136c52289315ab2a",
+  "coil_energy_kept": 0.7996081113815308
+ },
+ {
+  "name": "file1002146",
+  "slices": 40,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "53ad031393f2f24d70428cf8f28fb0cff47f0a274388657565038cd846ee86b7",
+  "coil_energy_kept": 0.9448227286338806
+ },
+ {
+  "name": "file1002169",
+  "slices": 33,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "12cc2cff61bff40286dee79af4eba45a0c9f90b578ad198c35558808d869ddc7",
+  "coil_energy_kept": 0.8387585878372192
+ },
+ {
+  "name": "file1002234",
+  "slices": 41,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "bad89cf71bafe0264b1909803d9a6be83e174af32ed92e242a25790a829bf19d",
+  "coil_energy_kept": 0.9389633536338806
+ },
+ {
+  "name": "file1002239",
+  "slices": 30,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "db1c8fac2cac1300d29aa0cadc476fc296cc99142ee61a07052613a89579ac20",
+  "coil_energy_kept": 0.9310745596885681
+ },
+ {
+  "name": "file1002264",
+  "slices": 39,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "7126e27f07aa1b0fd9f3db5d2caaf239eb5ef3f20371b23324d6f2ac86adad14",
+  "coil_energy_kept": 0.9350414276123047
+ },
+ {
+  "name": "file1002269",
+  "slices": 38,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "346ad58bed5ed9b5464fec7e2b9f6050fc980666d7e32dab75f1a108d050a019",
+  "coil_energy_kept": 0.9296154975891113
+ },
+ {
+  "name": "file1002303",
+  "slices": 37,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "1f38560cfc50a126f9d32d1d4fe25728a2f81096dcc829aa0a563090d3f9ce18",
+  "coil_energy_kept": 0.9323604106903076
+ },
+ {
+  "name": "file1002371",
+  "slices": 35,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "6dd40e519742fff2a43bb4c14411cdfa53592b6039de5b59b9b74711627f6abc",
+  "coil_energy_kept": 0.9183784127235413
+ },
+ {
+  "name": "file1002495",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPDFS_FBK",
+  "patient_id": "ac6130a6384c028fe655f4cea958df1195610624d18311c7a158e7f457e1b084",
+  "coil_energy_kept": 0.843641996383667
+ },
+ {
+  "name": "file1002511",
+  "slices": 34,
+  "raw_coils": 15,
+  "coils": 8,
+  "acquisition": "CORPD_FBK",
+  "patient_id": "425196302358c82fb68ebf169992fa040dd305fd2726927546aebb80945c1393",
+  "coil_energy_kept": 0.9199837446212769
+ }
+]
